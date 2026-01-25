@@ -24,6 +24,7 @@ The intent is to print two out and then allow the players to figure out how they
     If this is done on two models, they will snap together so they face different directions.
     - Once you are happy with the magnets,    
     superglue them in place and cover the gaps with putty. Then sand, primer, paint, and seal it as you wish.
+    I found that a white primer base and running a black permamanet marker over the lettering works quite well.
 - CrookedTower_Upper_*.scad - An OpenScad file used to generate the STL file in case you need to modify it. 
 You can download and install OpenScad from OpenScad.org or use an online tool by searching for "Openscad Playground."
 - TBD.pdf (work in progress) - A template to cut a piece of cardboard representing the key slot in the final room's safe. Give it to them
